@@ -1,6 +1,6 @@
-# Apna Video Call Stranger Video Meet 📹🌍
+# Stranger Video Meet 📹🌍
 
-Welcome to **Apna Video Call Stranger Video Meet** — a fully functional, real-time video conferencing application that brings people together. Whether you want to host private video meetings with your loved ones or seamlessly connect with strangers, this platform provides high-quality video and audio communication in a sleek, user-friendly interface.
+Welcome to **Stranger Video Meet** — a fully functional, real-time video conferencing application that brings people together. Whether you want to host private video meetings with your loved ones or seamlessly connect with strangers, this platform provides high-quality video and audio communication in a sleek, user-friendly interface.
 
 ## ✨ Key Features
 
